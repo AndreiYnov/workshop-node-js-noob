@@ -3,7 +3,14 @@ exports.run = function(input) {
 
   // YOUR CODE IS WELCOME HERE
 
-  /** STRICTLY FORBIDDEN TO CHANGE THIS CODE */
+    var repeat = function(a,b)
+    var particular = b;
+    for (i = 0; i < a; i++){
+        //
+        return particular;
+    }
+        
+    /** STRICTLY FORBIDDEN TO CHANGE THIS CODE */
   return input(3, "Beetlejuice", repeat);
   /** */
 };
