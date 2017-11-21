@@ -1,4 +1,9 @@
 exports.run = function(input) {
-  numbers = numbers.split(" ");
-  return Math.max.apply(null, numbers)
+  var plusgrandnombre = 0;
+    for(var i=0; i<input.length;i++)
+        {
+            
+        }
+    return plusgrandnombre;
 };
+
