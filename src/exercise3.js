@@ -1,3 +1,8 @@
 exports.run = function(input) {
-  console.log("Exercise #3");
-};
+   var nombre=0;
+        if(obj==0)
+          ;
+        else
+          ;
+   });
+   return nombre;
