@@ -1,3 +1,5 @@
 exports.run = function(input) {
-  console.log("Exercise #5");
+fs.access('/etc/passwd', fs.constants.R_OK | fs.constants.W_OK, (err) => {
+  console.log(err ? 'Something goes wrong!');
+});
 };
