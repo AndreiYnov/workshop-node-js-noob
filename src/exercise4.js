@@ -7,7 +7,6 @@ exports.run = function(input) {
     var particular = b;
     for (i = 0; i < a; i++){
         //
-        return particular;
     }
         
     /** STRICTLY FORBIDDEN TO CHANGE THIS CODE */
