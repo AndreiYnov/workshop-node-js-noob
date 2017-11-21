@@ -1,3 +1,4 @@
 exports.run = function(input) {
-  console.log("Exercise #2");
+  numbers = numbers.split(" ");
+  return Math.max.apply(null, numbers)
 };
